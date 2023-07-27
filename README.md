@@ -5,10 +5,12 @@ I'm Gangadhar, a passionate tech enthusiast with a strong focus on AI and ML. As
 
 ## Skills and Experience
 Skills:
-ML / DL / REACT / JS / HTML / CSS / Python / Django /
+- 🤖 AI ML  
+- 📲 REACT JS, HTML, CSS 
+- 💻 Python - Django 
 
 - 🔭 I’m currently working on Some cool Projects
-- 
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gangadhar24377)](https://github.com/anuraghazra/github-readme-stats)
 
 
