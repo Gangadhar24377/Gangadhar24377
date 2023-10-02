@@ -2,6 +2,8 @@
 
 
 # Gangadhar K
+![](https://komarev.com/ghpvc/?username=Gangadhar24377&color=blue)
+
 I'm Gangadhar, a passionate tech enthusiast with a strong focus on AI and ML. As a full-stack developer, I love building innovative web applications with React.js. My drive to explore cutting-edge technologies and contribute to the AI and ML field fuels my continuous pursuit of excellence in software development.
 
 ## Skills and Experience
