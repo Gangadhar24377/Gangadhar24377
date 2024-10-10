@@ -8,8 +8,11 @@ I'm Gangadhar Kambhamettu, a tech enthusiast passionate about AI and Machine Lea
 ## Skills and Experience
 Skills:
 - 🤖 AI/ML: NLP, Computer Vision, Deep Learning, LLMs, Diffusion Models
-- 📊 Data Processing: Power BI, Data Analytics 
+  
+- 📊 Data Processing: Power BI, Data Analytics
+  
 - ⚙️ Tools: Hugging Face, crewAI, LangChain, PyTorch, TensorFlow, OpenAI API, Django, React.js
+  
 - 🔭 I’m currently working on Some cool Projects
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gangadhar24377&theme=dark&show_icons=true)
