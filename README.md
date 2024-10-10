@@ -3,14 +3,13 @@
 
 # Gangadhar K
 
-I'm Gangadhar, a passionate tech enthusiast with a strong focus on AI and ML. As a full-stack developer, I love building innovative web applications with React.js. My drive to explore cutting-edge technologies and contribute to the AI and ML field fuels my continuous pursuit of excellence in software development.
+I'm Gangadhar Kambhamettu, a tech enthusiast passionate about AI and Machine Learning. My experience spans across Natural Language Processing, Computer Vision, and Deep Learning, with a particular interest in Large Language Models and Diffusion Models. I love building intelligent systems and exploring innovative solutions that push the boundaries of AI research and application.
 
 ## Skills and Experience
 Skills:
-- 🤖 AI ML  
-- 📲 REACT JS, HTML, CSS 
-- 💻 Python - Django 
-
+- 🤖 AI/ML: NLP, Computer Vision, Deep Learning, LLMs, Diffusion Models
+- 📊 Data Processing: Power BI, Data Analytics 
+- ⚙️ Tools: Hugging Face, crewAI, LangChain, PyTorch, TensorFlow, OpenAI API, Django, React.js
 - 🔭 I’m currently working on Some cool Projects
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gangadhar24377&theme=dark&show_icons=true)
