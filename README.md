@@ -7,7 +7,7 @@ I'm Gangadhar Kambhamettu, a tech enthusiast passionate about AI and Machine Lea
 
 ## Skills and Experience
 Skills:
-- 🤖 AI/ML: NLP, Computer Vision, Deep Learning, LLMs, Diffusion Models
+- 🤖 AI/ML: NLP, Computer Vision, Deep Learning, LLMs, Diffusion Models, Agents
   
 - 📊 Data Processing: Power BI, Data Analytics
   
